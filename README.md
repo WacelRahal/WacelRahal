@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Collaborated Projects
 
-- [**Power BI- Project**](https://github.com/WacelRahal/BI-Project)  
+  
 # Business Intelligence Project
-
+- [**Power BI- Project**](https://github.com/WacelRahal/BI-Project)
 ## Description
 This project demonstrates the use of ETL processes, data modeling, and data visualization to create insights for business decision-making. The project utilizes tools such as Talend, Python, and Power BI.
 
@@ -35,10 +35,10 @@ This project demonstrates the use of ETL processes, data modeling, and data visu
 
   
 
-- [**Web Scrapping Project :**](https://github.com/WacelRahal/Web_Scrapping)
+
 
 # Web Scraping and Data Encryption Project
-
+- [**Web Scrapping Project :**](https://github.com/WacelRahal/Web_Scrapping)
 ## Overview
 This project demonstrates web scraping techniques using Beautiful Soup, data cleaning and exploratory analysis, and the implementation of encryption for secure data handling.
 
