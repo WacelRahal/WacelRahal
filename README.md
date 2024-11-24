@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Collaborated Projects
+
+- [**Project Name**](https://github.com/WacelRahal/BI-Project))  
+*Description:* Built dynamic dashboards in Power BI to present cleaned and analyzed data effectively for stakeholders, investors, and decision-makers. Utilized Excel for data cleaning and calculation of KPIs and indices, transforming raw data into actionable insights.
+*Key Skills:* Data visualization, KPI calculation, and interactive report creation.
+*Impact:* Delivered insights that guided strategic decision-making and highlighted potential growth opportunities.
+
