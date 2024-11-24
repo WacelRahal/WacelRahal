@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Collaborated Projects
 
-- [**Power BI- Project**](https://github.com/WacelRahal/BI-Project))  
+- [**Power BI- Project**](https://github.com/WacelRahal/BI-Project)  
 # Business Intelligence Project
 
 ## Description
@@ -33,4 +33,21 @@ This project demonstrates the use of ETL processes, data modeling, and data visu
 - **Visualization Tools:** Power BI
 - **Data Storage:** SQL databases
 
+- [**Web Scrapping Project**](https://github.com/WacelRahal/Web_Scrapping)
+
+# Web Scraping and Data Encryption Project
+
+## Overview
+This project demonstrates web scraping techniques using Beautiful Soup, data cleaning and exploratory analysis, and the implementation of encryption for secure data handling.
+
+## Features
+- **Web Scraping:** Extracted data from various websites using Beautiful Soup.
+- **Data Cleaning:** Processed raw data to ensure accuracy and reliability.
+- **Exploratory Analysis:** Analyzed cleaned data and visualized trends.
+- **Data Encryption:** Secured scraped data using asymmetric encryption techniques.
+
+## Tools and Technologies
+- **Programming Language:** Python
+- **Libraries:** Beautiful Soup, Pandas, Matplotlib, Cryptography
+- **Data Storage:** CSV files
 
