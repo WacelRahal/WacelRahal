@@ -23,17 +23,19 @@ Here are some ideas to get you started:
 This project demonstrates the use of ETL processes, data modeling, and data visualization to create insights for business decision-making. The project utilizes tools such as Talend, Python, and Power BI.
 
 ## Key Features
-- **Data Integration:** Extracted, transformed, and loaded (ETL) data using Talend for centralized storage.
-- **Data Modeling:** Designed star and snowflake schemas for efficient data analysis.
-- **Interactive Dashboards:** Created dynamic Power BI reports for actionable insights.
+- *Data Integration:* Extracted, transformed, and loaded (ETL) data using Talend for centralized storage.
+- *Data Modeling:* Designed star and snowflake schemas for efficient data analysis.
+- *Interactive Dashboards:* Created dynamic Power BI reports for actionable insights.
 
 ## Tools and Technologies
-- **ETL Tools:** Talend
-- **Programming Language:** Python
-- **Visualization Tools:** Power BI
-- **Data Storage:** SQL databases
+- *ETL Tools:* Talend
+- *Programming Language:* Python
+- *Visualization Tools:* Power BI
+- *Data Storage:* SQL databases
 
-- [**Web Scrapping Project**](https://github.com/WacelRahal/Web_Scrapping)
+  
+
+- [**Web Scrapping Project :**](https://github.com/WacelRahal/Web_Scrapping)
 
 # Web Scraping and Data Encryption Project
 
@@ -41,13 +43,13 @@ This project demonstrates the use of ETL processes, data modeling, and data visu
 This project demonstrates web scraping techniques using Beautiful Soup, data cleaning and exploratory analysis, and the implementation of encryption for secure data handling.
 
 ## Features
-- **Web Scraping:** Extracted data from various websites using Beautiful Soup.
-- **Data Cleaning:** Processed raw data to ensure accuracy and reliability.
-- **Exploratory Analysis:** Analyzed cleaned data and visualized trends.
-- **Data Encryption:** Secured scraped data using asymmetric encryption techniques.
+- *Web Scraping:* Extracted data from various websites using Beautiful Soup.
+- *Data Cleaning:* Processed raw data to ensure accuracy and reliability.
+- *Exploratory Analysis:* Analyzed cleaned data and visualized trends.
+- *Data Encryption:* Secured scraped data using asymmetric encryption techniques.
 
 ## Tools and Technologies
-- **Programming Language:** Python
-- **Libraries:** Beautiful Soup, Pandas, Matplotlib, Cryptography
-- **Data Storage:** CSV files
+- *Programming Language:* Python
+- *Libraries:* Beautiful Soup, Pandas, Matplotlib, Cryptography
+- *Data Storage:* CSV files
 
