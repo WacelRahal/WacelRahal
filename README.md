@@ -4,21 +4,6 @@
 <!--
 **WacelRahal/WacelRahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 🏆 Certifications
-- **BIDA (Business Intelligence & Data Analysis)** – CFI
-
----
-
-### 🌱 Currently Learning
-- SQL, Python, Power BI, Machine Learning, FastAPI
-
----
-
-### 💻 Skills
-**Languages & Libraries:** Python, SQL, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow  
-**Visualization & BI Tools:** Power BI, Tableau, Matplotlib, Seaborn  
-**Other Tools:** Git, Excel, Looker Studio  
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
