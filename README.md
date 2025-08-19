@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Wacel Rahal </h1>
-<h3 align="center">🎓 Fresh Graduate | Data Analyst </h3>
+<h3 align="center">🎓 Fresh Graduate  </h3>
 <!--
 **WacelRahal/WacelRahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
