@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wacel Rahal</h1>
+<h3 align="center">🎓 Fresh Graduate</h3>
 
-<!--
-**WacelRahal/WacelRahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a self-taught aspiring Data Analyst, I have embarked on a journey to master the art of transforming raw data into valuable insights that drive decision-making and business growth.  
+
+Through dedication, continuous learning, and hands-on practice, I have developed a comprehensive skill set in data analysis, which I am eager to apply in a professional environment.  
+
+I bring a unique blend of technical skills, analytical thinking, and a passion for learning. I am excited to apply my abilities to real-world data challenges and contribute to your organization's success.  
+
+Whether it's through cleaning and preparing data, performing in-depth analysis, or creating compelling visualizations, I am committed to turning raw data into valuable insights that drive impactful decisions.  
